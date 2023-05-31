@@ -1,0 +1,1 @@
+# ayanokouji-bash-installer
